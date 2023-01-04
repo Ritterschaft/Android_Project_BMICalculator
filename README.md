@@ -1,6 +1,6 @@
 # Android_Project_BMICalculator
 
-This is an android based BMI calculator designed for male and female users (include who are under aged).
+This is an android based BMI calculator designed for male and female users (include who are under age).
 
 Height in meters is the inches multiplied by 0.0254.
 
